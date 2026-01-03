@@ -1,0 +1,5 @@
+{
+  "name": "StonksAI - Intelligent Trading Agent",
+  "description": "A revamped AI-powered trading assistant offering real-time stock analysis, options strategy generation with entry/exit targets, and smart stock screening using Gemini 3.0 Pro with Google Search.",
+  "requestFramePermissions": []
+}
