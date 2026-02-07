@@ -7,7 +7,7 @@
 
 **StonksAI** is a next-generation financial research terminal designed to bridge the gap between retail traders and institutional-grade analytics. By leveraging the **Google Gemini 3.0** reasoning engine, StonksAI synthesizes real-time market data, technical indicators, and global sentiment into actionable, hallucination-resistant trading strategies.
 
-🌎 [Live Application](https://stonksai.app)
+🌎 [Live Application](https://stonksaiapp.com)
 
 ---
 
