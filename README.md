@@ -7,6 +7,8 @@
 
 **StonksAI** is a next-generation financial research terminal designed to bridge the gap between retail traders and institutional-grade analytics. By leveraging the **Google Gemini 3.0** reasoning engine, StonksAI synthesizes real-time market data, technical indicators, and global sentiment into actionable, hallucination-resistant trading strategies.
 
+🌎 [Live Application](https://stonksai.app)
+
 ---
 
 ## ⚡ Core Capabilities
@@ -47,12 +49,12 @@ A defensive module for stress-testing asset allocation.
 
 StonksAI operates on a tiered access model managed via Stripe.
 
-| Tier | Target User | Key Features | Monthly Price |
-| :--- | :--- | :--- | :--- |
-| **Beta / Free** | Casual Observers | Basic Quotes, Limited Scans | **$0** |
-| **Explorer** | Active Traders | Daily AI Analysis, Basic Options | **$29** |
-| **Analyst** | Professionals | High-Volume Scanning, Deep Dives | **$59** |
-| **Strategist** | Institutions | Unlimited AI Reasoning, Portfolio Stress Tests | **$99** |
+| Tier | Target User | Key Features |
+| :--- | :--- | :--- |
+| **Beta / Free** | Casual Observers | Basic Quotes, Limited Scans |
+| **Explorer** | Active Traders | Daily AI Analysis, Basic Options |
+| **Analyst** | Professionals | High-Volume Scanning, Deep Dives |
+| **Strategist** | Institutions | Unlimited AI Reasoning, Portfolio Stress Tests |
 
 *Note: During the Closed Beta phase, selected users are granted "Strategist" level access for testing purposes.*
 
